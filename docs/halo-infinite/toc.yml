@@ -1,0 +1,8 @@
+# yaml-language-server: $schema=../../schemas/toc.schema.json
+
+- name: "Halo Infinite Documentation Homepage"
+  href: index.yml
+- name: "Overview"
+  items:
+    - name: "Get Started"
+      href: general/get-started.yml

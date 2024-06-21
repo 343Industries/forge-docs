@@ -1,0 +1,5 @@
+{
+  "yaml.schemas": {
+    "./schemas/toc.schema.json": "toc.yml"
+  }
+}

@@ -1,0 +1,127 @@
+### YamlMime:Hub
+
+title: "Halo: The Master Chief Collection Creator Documentation" # < 60 chars
+summary: "Learn how to mod Halo: The Master Chief Collection."
+
+metadata:
+  title: "Halo: The Master Chief Collection Creator Documentation" # Required; page title shown in search results < 60 chars
+  description: "Learn how to mod Halo: The Master Chief Collection." # < 160 chars
+  service: service
+  ms.service: service # Required; service per approved list.
+  ms.topic: hub-page # Required
+  ms.date: 01/28/2022
+  author: mjordan343 # Required; Github alias
+  ms.author: mjordan # Required; Microsoft alias; with correct grammar
+
+# highlightedContent section (optional)
+# Maximum of 8 items
+highlightedContent:
+# itemType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | sample | tutorial | video | whats-new
+  items:
+    # Card
+    - title: Excession Tool and Uploading Mods
+      itemType: get-started
+      url: ./Excession/ExcessionOverview.md
+    # Card
+    - title: Halo 3 Content Creation Quick Start
+      itemType: tutorial
+      url: ./H3/QuickStart/QuickStartOverview.md
+    # Card
+    - title: Halo 3 Mod Tools Overview
+      itemType: reference
+      url: ./H3/Tools/ToolsHome.md
+    # Card
+    - title: Known Tool Issues
+      itemType: reference
+      url: ./general/KnownIssues.md
+      
+# tools section (optional)
+tools:
+  title: Tools # < 60 chars (optional)
+  summary: Where to obtain the mod tools. # < 160 chars (optional)
+  items:
+    # Card
+    - title: Excession Tool
+      # imageSrc should be square in ratio with no whitespace
+      imageSrc: ./media/Excession_64.png
+      url: "https://store.steampowered.com/app/1695795"
+    # Card
+    - title: Halo CE
+      # imageSrc should be square in ratio with no whitespace
+      imageSrc: ./media/HCE_64.png
+      url: "https://store.steampowered.com/app/1532190"
+    # Card
+    - title: Halo 2
+      imageSrc: ./media/H2_64.png
+      url: "https://store.steampowered.com/app/1613450"
+    # Card
+    - title: Halo 2 Anniversary
+      imageSrc: ./media/H2A_64.png
+      url: "https://store.steampowered.com/app/1695790/"
+    # Card
+    - title: Halo 3
+      imageSrc: ./media/H3_64.png
+      url: "https://store.steampowered.com/app/1695791"
+    # Card
+    - title: Halo 3 ODST
+      imageSrc: ./media/ODST_64.png
+      url: "https://store.steampowered.com/app/1695794/"
+      # Card
+    - title: Halo Reach
+      imageSrc: ./media/HR_64.png
+      url: "https://store.steampowered.com/app/1695793/"
+      # Card
+    - title: Halo 4
+      imageSrc: ./media/H4_64.png
+      url: "https://store.steampowered.com/app/1695792/"
+      
+# conceptualContent section (optional)
+conceptualContent:
+# Supports up to 3 sections
+# itemType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | sample | tutorial | video | whats-new
+  sections:
+    - title: Manuals # < 60 chars (optional)
+      summary: "Learn how to create mods for various Halo titles." # < 160 chars (optional)
+      items:
+       # card
+        - title: Excession Tool
+          summary: "Learn how to create Steam Mods."
+          links:
+            - url: ./Excession/ExcessionOverview.md
+              itemType: reference
+              text: Excession Tool Overview
+            - url: ./Excession/Setup/SetupHome.md
+              itemType: get-started
+              text: Initial Setup
+            - url: ./Excession/CreatingModPackage/CreatingHome.md
+              itemType: how-to-guide
+              text: Creating Mod Packages
+            - url: ./Excession/Uploading/UploadingHome.md
+              itemType: deploy
+              text: Uploading a Mod Package
+        # card
+        - title: Halo 2
+          summary: "Learn how to mod Halo 2."
+          links:
+            - url: ./H2/Guides/GuidesHome.md
+              itemType: how-to-guide
+              text: How-To Guides
+            - url: ./H2/HaloScript/HaloScriptHome.md
+              itemType: reference
+              text: HaloScript Reference
+        # card
+        - title: Halo 3
+          summary: "Learn how to mod Halo 3."
+          links:
+            - url: ./H3/QuickStart/QuickStartOverview.md
+              itemType: how-to-guide
+              text: Quick Start Guide
+            - url: ./H3/Guides/GuidesHome.md
+              itemType: how-to-guide
+              text: How-Tos
+            - url: ./H3/Tools/ToolsHome.md
+              itemType: reference
+              text: Tools Overview
+            - url: ./H3/Art/ArtHome.md
+              itemType: reference
+              text: Art Overview
