@@ -24,3 +24,8 @@ jobs:
       - name: Build
         run: node ./build.mjs
         continue-on-error: true # TODO: Remove once everyting is cleaned up
+      - name: Upload to blob storage
+        uses: azure/CLI@v1
+        with:
+          inlineScript: |
+            az storage blob upload-batch --account-name ${{ vars.AZURE_STORAGE_ACCOUNT }} --account-key ${{ secrets.AZURE_STORAGE_SECRET }} -d content --destination-path docs -s ./dist --overwrite
