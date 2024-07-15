@@ -1,26 +1,26 @@
-title: 'Halo Forge Documentation'
-summary: 'Learn how to create and share content for Halo games.'
+title: "Halo Forge Documentation"
+summary: "Learn how to create and share content for Halo games."
 
 metadata:
-  title: 'Halo Forge Documentation'
-  description: 'Learn how to create and share content for Halo games.'
+  title: "Halo Forge Documentation"
+  description: "Learn how to create and share content for Halo games."
 
 sections:
-  - title: 'Halo Infinite'
+  - title: Halo Infinite
     items:
       - title: Get Started
         url: ./halo-infinite/general/get-started
-  - title: 'Halo: The Master Chief Collection'
+  - title: "Halo: The Master Chief Collection"
     items:
       - title: Excession Tool
-        summary: 'Learn how to create Steam Mods.'
+        summary: "Learn how to create Steam Mods."
         links:
           - text: Excession Tool Overview
             url: ./halo-mcc/excession/excessionoverview
           - text: Initial Setup
             url: ./halo-mcc/excession/setup/setuphome
       - title: Halo 2
-        summary: 'Learn how to create mods for Halo 2.'
+        summary: "Learn how to create mods for Halo 2."
         links:
           - text: How-To Guides
             url: ./halo-mcc/h2/guides/guideshome
