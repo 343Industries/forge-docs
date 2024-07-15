@@ -1,0 +1,26 @@
+name: PR
+on:
+  pull_request:
+    branches: ["main"]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 2
+      - name: Git config user
+        uses: snow-actions/git-config-user@v1.0.0
+        with:
+          name: ci
+          email: ci@343industries.com
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 20
+      - name: Install
+        run: npm install
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Build
+        run: npm run build
+        continue-on-error: true # TODO: Remove once everyting is cleaned up
