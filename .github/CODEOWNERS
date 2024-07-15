@@ -1,0 +1,14 @@
+# 343 Engineering must approve changes to anything under the .github folder
+/.github/  @343Industries/343engineering
+
+# 343 Engineering must approve changes to anything under the .vscode folder
+/.vscode/  @343Industries/343engineering
+
+# 343 Engineering must approve changes to anything under the schemas folder
+/schemas/  @343Industries/343engineering
+
+# 343 Engineering must approve changes to files off of the root (build.mjs, package.json...)
+/* @343Industries/343engineering
+
+# 343 Approvers must approve changes to anything under the forge folder
+/forge/ @343Industries/343approvers
