@@ -16,7 +16,7 @@ metadata:
 # highlightedContent section (optional)
 # Maximum of 8 items
 highlightedContent:
-# itemType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | sample | tutorial | video | whats-new
+  # itemType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | sample | tutorial | video | whats-new
   items:
     # Card
     - title: Excession Tool and Uploading Mods
@@ -34,7 +34,7 @@ highlightedContent:
     - title: Known Tool Issues
       itemType: reference
       url: ./general/KnownIssues.md
-      
+
 # tools section (optional)
 tools:
   title: Tools # < 60 chars (optional)
@@ -74,16 +74,16 @@ tools:
     - title: Halo 4
       imageSrc: ./media/H4_64.png
       url: "https://store.steampowered.com/app/1695792/"
-      
+
 # conceptualContent section (optional)
 conceptualContent:
-# Supports up to 3 sections
-# itemType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | sample | tutorial | video | whats-new
+  # Supports up to 3 sections
+  # itemType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | sample | tutorial | video | whats-new
   sections:
     - title: Manuals # < 60 chars (optional)
       summary: "Learn how to create mods for various Halo titles." # < 160 chars (optional)
       items:
-       # card
+        # card
         - title: Excession Tool
           summary: "Learn how to create Steam Mods."
           links:

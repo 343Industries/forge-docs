@@ -1,0 +1,19 @@
+{
+  "name": "forge-docs",
+  "version": "1.0.0",
+  "description": "References",
+  "main": "build.cjs",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "build": "node ./build.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@343Industries/docs-builder": "^1.0.3",
+    "@343Industries/docs-schemas": "^1.0.1"
+  }
+}
