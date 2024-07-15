@@ -19,5 +19,7 @@ jobs:
           node-version: 20
       - name: Install
         run: npm install
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Build
         run: npm run build
