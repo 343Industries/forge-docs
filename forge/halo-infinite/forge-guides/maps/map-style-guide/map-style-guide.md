@@ -8,9 +8,9 @@ Overall map visual quality relies a great deal upon the underlying quality of th
 
 ###### Add Ons and Decals
 
-![](C:\Users\mischorr\Documents\GitHub\forge-docs\forge\halo-infinite\forge-guides\maps\map-style-guide\media\addons-decals-01.png)
+![](media/addons-decals-01.avif)
 
-![](C:\Users\mischorr\Documents\GitHub\forge-docs\forge\halo-infinite\forge-guides\maps\map-style-guide\media\addons-decals-02.png)Add Ons are props that you can stamp on surfaces to provide small pockets of detail.  They can help to quickly finish out areas.
+![](media/addons-decals-02.avif)Add Ons are props that you can stamp on surfaces to provide small pockets of detail.  They can help to quickly finish out areas.
 
 Decals provide color, detail, and readability around doorways and other key areas. For floors especially, decals can provide the majority of the detail/polish.
 
@@ -18,25 +18,25 @@ Leverage details with intent
 
 ###### Gobos and FX
 
-![](C:\Users\mischorr\Documents\GitHub\forge-docs\forge\halo-infinite\forge-guides\maps\map-style-guide\media\gobos-fx-01.png)
+![](media/gobos-fx-01.avif)
 
-![](C:\Users\mischorr\Documents\GitHub\forge-docs\forge\halo-infinite\forge-guides\maps\map-style-guide\media\gobos-fx-02.png)
+![](media/gobos-fx-02.avif)
 
 - Gobos and shadows can be used to bring spaces to a finished state. Spaces like this require fewer additional detail solutions.
 - Liberal use of FX (with deference to good game design) are vital to spaces feeling polished.
 
 ###### Color as Detail
 
-![](C:\Users\mischorr\Documents\GitHub\forge-docs\forge\halo-infinite\forge-guides\maps\map-style-guide\media\color-as-detail-01.png)
+![](media/color-as-detail-01.avif)
 
-![](C:\Users\mischorr\Documents\GitHub\forge-docs\forge\halo-infinite\forge-guides\maps\map-style-guide\media\color-as-detail-02.png)
+![](media/color-as-detail-02.avif)
 
 - Simply adding color breakup more frequently in levels can help the map feel crafted, intentional, and more detailed.
 - Liberal use of color to improve readability, mark important areas, and guide players is key.
 
 ###### Focusing Fidelity
 
-![](C:\Users\mischorr\Documents\GitHub\forge-docs\forge\halo-infinite\forge-guides\maps\map-style-guide\media\focusing-fidelity-01.png)
+![](media/focusing-fidelity-01.avif)
 
 - Confine expensive set dressing to hero pieces, or pre-defined objective areas.
 - 1 to 2 per map, maximum
@@ -62,9 +62,9 @@ A map doesn't need to incorporate all these elements, just enough of them to sel
 
 These are two examples that would be considered 90% complete, with only one major note below to call them finished.
 
-![](C:\Users\mischorr\Documents\GitHub\forge-docs\forge\halo-infinite\forge-guides\maps\map-style-guide\media\testcases-howfinished-01.png)
+![](media/testcases-howfinished-01.avif)
 
-![](C:\Users\mischorr\Documents\GitHub\forge-docs\forge\halo-infinite\forge-guides\maps\map-style-guide\media\testcases-howfinished-02.png)
+![](media/testcases-howfinished-02.avif)
 
 | Pass                                                                                            | Fail                                                     |
 |:----------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
@@ -74,13 +74,13 @@ These are two examples that would be considered 90% complete, with only one majo
 
 ###### 2 - Terrain Transitions
 
-![](C:\Users\mischorr\Documents\GitHub\forge-docs\forge\halo-infinite\forge-guides\maps\map-style-guide\media\terrain-transitions-01.png)
+![](media/terrain-transitions-01.avif)
 
-![](C:\Users\mischorr\Documents\GitHub\forge-docs\forge\halo-infinite\forge-guides\maps\map-style-guide\media\terrain-transitions-02.png)
+![](media/terrain-transitions-02.avif)
 
-![](C:\Users\mischorr\Documents\GitHub\forge-docs\forge\halo-infinite\forge-guides\maps\map-style-guide\media\terrain-transitions-03.png)
+![](media/terrain-transitions-03.avif)
 
-![](C:\Users\mischorr\Documents\GitHub\forge-docs\forge\halo-infinite\forge-guides\maps\map-style-guide\media\terrain-transitions-04.png)
+![](media/terrain-transitions-04.avif)
 
 | Pass                                                                                                                                                | Fail                                                                          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
@@ -93,9 +93,9 @@ These are two examples that would be considered 90% complete, with only one majo
 
 These examples in Ridgeline use 'just enough' detail to sell the scene. Minimal mesh detailing in passthroughs and care given to transitions help make this feel complete.
 
-![](C:\Users\mischorr\Documents\GitHub\forge-docs\forge\halo-infinite\forge-guides\maps\map-style-guide\media\simple-success-01.png)
+![](media/simple-success-01.avif)
 
-![](C:\Users\mischorr\Documents\GitHub\forge-docs\forge\halo-infinite\forge-guides\maps\map-style-guide\media\simple-success-02.png)
+![](media/simple-success-02.avif)
 
 | Pass                                                                                  | Fail                                                                           |
 | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
