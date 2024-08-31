@@ -75,13 +75,13 @@ Competitive maps traditionally do not have complexity in rooms or power position
 
 *Lockout*
 
-![](C:\Users\mischorr\Documents\GitHub\forge-docs\forge\halo-infinite\forge-guides\maps\competitive-map-guide\media\simplicity-01-lockout.png)
+![](media/simplicity-01-lockout.avif)
 
 *Construct*
 
 *Live Fire*
 
-![](C:\Users\mischorr\Documents\GitHub\forge-docs\forge\halo-infinite\forge-guides\maps\competitive-map-guide\media\simplicity-02-livefire.png)
+![](media/simplicity-02-livefire.avif)
 
 *Haven*
 
@@ -91,7 +91,7 @@ Competitive maps traditionally do not have complexity in rooms or power position
 
 *Midship*
 
-![](C:\Users\mischorr\Documents\GitHub\forge-docs\forge\halo-infinite\forge-guides\maps\competitive-map-guide\media\simplicity-03-midship.png)
+![](media/simplicity-03-midship.avif)
 
 - Pink 3 is open and exposed to large portions of the map
 
@@ -101,7 +101,7 @@ Competitive maps traditionally do not have complexity in rooms or power position
 
 *Starboard*
 
-![](C:\Users\mischorr\Documents\GitHub\forge-docs\forge\halo-infinite\forge-guides\maps\competitive-map-guide\media\simplicity-04-starboard.png)
+![](media/simplicity-04-starboard.avif)
 
 ### Smooth Geometry
 
@@ -113,13 +113,13 @@ Players should be able to consistently throw grenades without them getting caugh
 
 *Live Fire - Geometry allows players to determine exactly where they need to throw a grenade to bounce it into the window*
 
-![](C:\Users\mischorr\Documents\GitHub\forge-docs\forge\halo-infinite\forge-guides\maps\competitive-map-guide\media\smoothgeo-01-livefire.png)
+![](media/smoothgeo-01-livefire.avif)
 
 ###### Example of Bad
 
 *Solitude - Complexity of geometry makes it extremely difficult for players to know where grenade will go off of pieces like this causing gameplay to be less intentional.*
 
-![](C:\Users\mischorr\Documents\GitHub\forge-docs\forge\halo-infinite\forge-guides\maps\competitive-map-guide\media\smoothgeo-02-solitude.png)
+![](media/smoothgeo-02-solitude.avif)
 
 ### Open Sightlines
 
@@ -131,11 +131,11 @@ Take Recharge, for example. It’s normal to have room-based combat, but it is 
 
 *Red outlines indicate good, open sightlines*
 
-![](C:\Users\mischorr\Documents\GitHub\forge-docs\forge\halo-infinite\forge-guides\maps\competitive-map-guide\media\sightlines-01-recharge.png)
+![](media/sightlines-01-recharge.avif)
 
-![](C:\Users\mischorr\Documents\GitHub\forge-docs\forge\halo-infinite\forge-guides\maps\competitive-map-guide\media\sightlines-02-recharge.png)
+![](media/sightlines-02-recharge.avif)
 
-![](C:\Users\mischorr\Documents\GitHub\forge-docs\forge\halo-infinite\forge-guides\maps\competitive-map-guide\media\sightlines-03-recharge.png)
+![](media/sightlines-03-recharge.avif)
 
 Competitive Halo maps can vary in design while adhering to the philosophy of open lines of sight.
 
@@ -157,11 +157,11 @@ Good map design incorporates gradual curved openings to areas rather than shar
 
 *Both Sides of the door allow players to hide unseen*
 
-![](C:\Users\mischorr\Documents\GitHub\forge-docs\forge\halo-infinite\forge-guides\maps\competitive-map-guide\media\flow-openings-01-aquarius.png)
+![](media/flow-openings-01-aquarius.avif)
 
 *The entrance of the base from pink side has a spot on the left side where players can hide.*
 
-![](C:\Users\mischorr\Documents\GitHub\forge-docs\forge\halo-infinite\forge-guides\maps\competitive-map-guide\media\flow-openings-02-aquarius.png)
+![](media/flow-openings-02-aquarius.avif)
 
 Good map design allows for dynamic objective play (e.g., in CTF there isn't just one optimal way to run the flag).
 
@@ -169,19 +169,19 @@ Doorways should have plenty of play space to enter and exit.  Narrow doorways c
 
 ###### Examples of Good Connecting Points
 
-![](C:\Users\mischorr\Documents\GitHub\forge-docs\forge\halo-infinite\forge-guides\maps\competitive-map-guide\media\connectingpoints-good-01-livefire.png)
+![](media/connectingpoints-good-01-livefire.avif)
 
-![](C:\Users\mischorr\Documents\GitHub\forge-docs\forge\halo-infinite\forge-guides\maps\competitive-map-guide\media\connectingpoints-good-02-livefire.png)
+![](media/connectingpoints-good-02-livefire.avif)
 
-![](C:\Users\mischorr\Documents\GitHub\forge-docs\forge\halo-infinite\forge-guides\maps\competitive-map-guide\media\connectingpoints-good-03-livefire.png)
+![](media/connectingpoints-good-03-livefire.avif)
 
 ###### Examples of Bad Connecting Points
 
-![](C:\Users\mischorr\Documents\GitHub\forge-docs\forge\halo-infinite\forge-guides\maps\competitive-map-guide\media\connectingpoints-bad-01-aquarius.png)
+![](media/connectingpoints-bad-01-aquarius.avif)
 
-![](C:\Users\mischorr\Documents\GitHub\forge-docs\forge\halo-infinite\forge-guides\maps\competitive-map-guide\media\connectingpoints-bad-02-recharge.png)
+![](media/connectingpoints-bad-02-recharge.avif)
 
-![](C:\Users\mischorr\Documents\GitHub\forge-docs\forge\halo-infinite\forge-guides\maps\competitive-map-guide\media\connectingpoints-bad-03-recharge.png)
+![](media/connectingpoints-bad-03-recharge.avif)
 
 ### Cover
 
@@ -189,15 +189,15 @@ Similar to how power positions typically do not have lots of cover, areas of the
 
 *Batteries on Recharge*
 
-![](C:\Users\mischorr\Documents\GitHub\forge-docs\forge\halo-infinite\forge-guides\maps\competitive-map-guide\media\cover-01-recharge.png)
+![](media/cover-01-recharge.avif)
 
 *Pillars on Live Fire*
 
-![](C:\Users\mischorr\Documents\GitHub\forge-docs\forge\halo-infinite\forge-guides\maps\competitive-map-guide\media\cover-02-livefire.png)
+![](media/cover-02-livefire.avif)
 
 *Courtyard on Aquarius*
 
-![](C:\Users\mischorr\Documents\GitHub\forge-docs\forge\halo-infinite\forge-guides\maps\competitive-map-guide\media\cover-03-aquarius.png)
+![](media/cover-03-aquarius.avif)
 
 ### Balanced Routes
 
@@ -207,15 +207,15 @@ A Position of interest (POI) will often see more successful combat loops when th
 
 *Key door jump to A play grenades on Live Fire*
 
-![](C:\Users\mischorr\Documents\GitHub\forge-docs\forge\halo-infinite\forge-guides\maps\competitive-map-guide\media\balancedroutes-01-livefire.png)
+![](media/balancedroutes-01-livefire.avif)
 
 *Mid-bridge to top tower of Recharge*
 
-![](C:\Users\mischorr\Documents\GitHub\forge-docs\forge\halo-infinite\forge-guides\maps\competitive-map-guide\media\balancedroutes-02-recharge.png)
+![](media/balancedroutes-02-recharge.avif)
 
 *Driveway ledge to Commando on Streets*
 
-![](C:\Users\mischorr\Documents\GitHub\forge-docs\forge\halo-infinite\forge-guides\maps\competitive-map-guide\media\balancedroutes-03-streets.png)
+![](media/balancedroutes-03-streets.avif)
 
 ### Orientation and Navigation
 
